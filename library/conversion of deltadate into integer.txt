@@ -1,0 +1,5 @@
+import datetime
+x=datetime.date(2019,5,25)
+y=datetime.date(2019,2,23)
+diff=x-y
+print(diff.days*2+2)
